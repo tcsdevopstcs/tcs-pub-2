@@ -1,0 +1,30 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "9f36bcc2-ea09-455a-8073-92350fd95d63": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 286,
+                    "y": 35
+                },
+                "z": 0,
+                "embeds": []
+            }
+        }
+    },
+    "Resources": {
+        "wipro999": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "9f36bcc2-ea09-455a-8073-92350fd95d63"
+                }
+            }
+        }
+    }
+}
